@@ -11,7 +11,7 @@ setup(name='seqence-server-demo',
       maintainer_email='neeky@live.com',
       scripts=['bin/sequence-client','bin/sequence-server'],
       packages=['pbes'],
-      url='https://github.com/Neeky/protobuf-es',
+      url='https://github.com/Neeky/seqence-server',
       install_requires=['grpcio==1.39.0','grpcio-tools==1.38.1','protobuf==3.19.3'],
       python_requires='>=3.8.*',
       classifiers=[
