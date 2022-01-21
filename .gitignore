@@ -1,0 +1,3 @@
+dist/
+seqence_server_demo.egg-info/
+*.pyc
